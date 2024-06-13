@@ -37,7 +37,7 @@ This script processes and prepares data from CSV files.
     ```sh
     python final_3A.py
     ```
-4. The script will output the processed data and visualizations based on the tags.
+4. The script  will generate a text file `comparison_results_by_team_3A.txt` and visualizations based on the tags.
 
 ### `final_3B.py`
 
@@ -49,7 +49,7 @@ This script compares tags between sound and video files and outputs the results.
     ```sh
     python final_3B.py
     ```
-4. The script will generate a text file `comparison_results_by_team_3B.txt` containing the comparison results.
+4. The script  will generate a text file `comparison_results_by_team_3B.txt` and visualizations based on the tags.
 
 ## Files
 
