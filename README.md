@@ -14,7 +14,7 @@ A brief description of what this project does and who it's for.
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/yourusername/your-repo-name.git
+    git clone https://github.com/petridisraf/python.git
     ```
 2. Navigate to the project directory:
     ```sh
